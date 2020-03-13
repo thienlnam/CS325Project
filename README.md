@@ -1,6 +1,6 @@
 # CS325 Final Project
 
-## Project Group 37
+<b>Project Group 37</b>
 - Thien Nam
 - Cristian Mann
 - Jonathan Iniguez
