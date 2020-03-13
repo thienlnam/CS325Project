@@ -1,7 +1,13 @@
-# CS325Project
+# CS325 Final Project
 
-Starter code for CS325 Project inside nna.cpp
-- Matches specifications for how input files are handled and creates a vector of cities
+## Project Group 37
+- Thien Nam
+- Cristian Mann
+- Jonathan Iniguez
+
+We implemented the Nearest Neighbor Algorithm for our assignment.  In this algorithm, the salesman starts at a random city and repeatedly visits the nearest city until all have been visited.
+
+The program takes a test-input file, and exports the results into a test-input.tour file.  
 
 <b>Compiling:</b> g++ nna.cpp -o nna
 
